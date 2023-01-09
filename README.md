@@ -1,2 +1,1 @@
-# questify
-Stream to the damn questies
+A self-hostable server similar to [VRCDN](https://vrcdn.live/) but much simpler and smaller scale.  Basically will just take an ingest stream or video and generate a pc URL that redirects to the source, and a Quest compatible URL.
